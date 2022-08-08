@@ -91,36 +91,20 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/ARFAT-HASAAN&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-
-<br/>  
 
 
-## Recent Blog Posts  
-  
 
-<br/>  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ARFAT-HASAAN)  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<br/>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARFAT-HASAAN)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=https://github.com/ARFAT-HASAAN&&style=flat-square" align="center" />
-</div>  
-  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARFAT-HASAAN&show_icons=true&count_private=true)  
 
-<br/>  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ARFAT-HASAAN)  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/https://arfat-ec211.firebaseapp.com/" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+![Profile views](https://gpvc.arturio.dev/ARFAT-HASAAN)  
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
