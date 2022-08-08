@@ -92,7 +92,9 @@
 
 
 
+## Github stats
 
+<div align="center"> 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ARFAT-HASAAN)  
 
@@ -108,3 +110,6 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
+
+
